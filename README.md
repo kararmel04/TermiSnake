@@ -26,7 +26,7 @@ gcc -o snake main.c
 - Appuyer sur a pour arrêter.
 
 ### Version 3 : Plateau avec Pommes
-- Ajout d’un plateau de jeu de 40 x 20 caractères.
+- Ajout d’un plateau de jeu de 80 x 20 caractères.
 - Bordures représentées par #.
 - Apparition aléatoire de pommes (6) que le serpent peut manger.
 
